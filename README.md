@@ -1,3 +1,2 @@
-# Sample Python Code
-
+# Python Sample Code
 
